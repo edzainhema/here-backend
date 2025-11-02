@@ -32,7 +32,6 @@ djangorestframework==3.16.0
 ffmpeg==1.4
 ffmpeg-python==0.2.0
 future==1.0.0
-gensim==4.3.3
 gunicorn==23.0.0
 hyperlink==21.0.0
 idna==3.10
@@ -41,8 +40,6 @@ imageio-ffmpeg==0.6.0
 incremental==24.7.2
 joblib==1.4.2
 kombu==5.5.4
-moviepy==2.1.2
-numpy==1.26.4
 packaging==25.0
 pillow==10.4.0
 proglog==0.1.11
@@ -59,9 +56,6 @@ python-dotenv==1.1.0
 pytz==2025.2
 qrcode==8.1
 redis==5.2.1
-requests==2.32.3
-scikit-learn==1.6.1
-scipy==1.13.1
 service-identity==24.2.0
 six==1.17.0
 smart-open==7.1.0
