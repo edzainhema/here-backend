@@ -4,6 +4,6 @@ from rest_framework.response import Response
 
 @api_view(['GET'])
 def hello_world(request):
-	return Response({"message": "Hello World"})
+	return Response({"message": "Hello World. How are you doing"})
     
 # Create your views here.
